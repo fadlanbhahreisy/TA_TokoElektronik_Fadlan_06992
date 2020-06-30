@@ -1,0 +1,2 @@
+# TA_TokoElektronik_Fadlan_06992
+project Tugas Akhir Basis Data 2020 ITATS
