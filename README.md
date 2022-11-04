@@ -2,4 +2,4 @@
 project Tugas Akhir Basis Data 2020 ITATS
 file index ada folder view
 
-![gambar](images/1.png)
+![gambar](images/2.png)
